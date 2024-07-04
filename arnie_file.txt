@@ -1,0 +1,2 @@
+linearpartition: . 
+TMP: /tmp
